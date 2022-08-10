@@ -1,0 +1,22 @@
+.footer{
+    background-color: #121212;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+}
+
+.icons {
+    color:rgb(227, 192, 33);;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.registered{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    color:rgb(227, 192, 33);;
+}
