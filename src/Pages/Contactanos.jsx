@@ -1,7 +1,6 @@
 import Footer from "../components/Footer"
 import Formulario from "../components/Formulario"
 import '../styles/Contactanos.css'
-import { Link } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSquareFacebook } from '@fortawesome/free-brands-svg-icons'
 import { faSquareTwitter } from '@fortawesome/free-brands-svg-icons'
